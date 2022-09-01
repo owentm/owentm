@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @owentm
-- 👀 I’m interested in Software Engineering
+- 👋 Hi, I’m Owen Murphy
+- 👀 I’m interested in Software Engineering, IT, and Web Development
 - 🌱 I’m currently learning any coding langauge I can get my hands on.
 - 💞️ I’m looking to collaborate on websites, or games.
 - 📫 Email me at owentmurp@gmail.com
